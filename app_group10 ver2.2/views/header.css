@@ -1,0 +1,62 @@
+/* Class and ID selectors*/
+
+#List_1 {
+    position: absolute;
+    left: 5%;
+    top: 15%;
+    border:  4pt ridge purple ;
+}
+
+#List_2 {
+    position: absolute;
+    left: 15%;
+    top: 15%;
+    border:  4pt ridge blue ;
+}
+
+#Img_1 {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    height: 20%;
+    width: 10%;
+}
+
+#p_1{
+    position: absolute;
+    top: 20%;
+    left:5%;
+    color: yellow;
+}
+
+#p_2{
+    position: absolute;
+    top: 20%;
+    left: 55%;
+    color: yellow;
+}
+
+
+#music {
+        position: absolute;
+        left: 5%;
+        top: 30%;
+        height: 35%;
+        width:40%;
+}
+
+#signal {
+        position: absolute;
+        left: 55%;
+        top: 30%;
+        height: 35%;
+        width:40%;
+}
+
+#cross {
+        position: absolute;
+        left: 5%;
+        top: 70%;
+        width:90%;
+}
+
