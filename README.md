@@ -6,7 +6,7 @@ backup for python class project, master1grade
 -------
 
 
-This is the project conducted by group10, based on dash.plotly, using real-world dataset to create a local interactive Web interface, in a total of 366 observations.
+This is the project conducted by group10, based on dash.plotly, with a light and dark theme switch component from the dash-bootstrap-templates library using real-world dataset to create a local interactive Web interface, at a total of 366 observations.
 More sepcificicaly, we focus on the analyse of "The Demand of Rental Bikes During year 2012 in Capital Bikeshare System" by visualizing 
 as a plimitory research.
 
@@ -41,9 +41,8 @@ and quantitatve variables selecting from:
 
     .../app.py
 
-## application structure
+## Application structure
 -------
-
 
 ### requirements
 
@@ -57,11 +56,31 @@ and quantitatve variables selecting from:
 
 ### our environment
 
-      # Python 3.8.2
+      Python 3.8.2,
+      dash==2.7.1, dash-bootstrap-components==1.2.1, dash-bootstrap-templates==1.0.7, dash-core-components==2.0.0, dash-html-components==2.0.0, dash-table==5.0.0，plotly==5.11.0, numpy==1.18.2， pandas==1.0.3
 
-      # dash==2.7.1, dash-bootstrap-components==1.2.1, dash-bootstrap-templates==1.0.7, dash-core-components==2.0.0, dash-html-components==2.0.0, dash-table==5.0.0，plotly==5.11.0, numpy==1.18.2， pandas==1.0.3
-
-
+```
+- app.py 
+- pages
+    - #for visualization
+       |-- bar_charts.py
+       |-- box_whisker.py
+       |-- cluster_bar_charts.py
+       |-- histograms.py
+       |-- scatter_charts.py
+    - #for table
+       |-- dashboard.py
+    - #for setting
+       |-- __init__.py
+       |-- not_found_404.py
+       |-- default_fig.py
+    - home.py
+- views
+    - #original dataset
+       |-- bike.xlsx
+       |-- data_content.txt
+    - data.py
+```
 
 
 
