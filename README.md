@@ -11,14 +11,14 @@ More sepcificicaly, we focus on the analyse of "The Demand of Rental Bikes Durin
 as a plimitory research.
 
 
-*research object*:
+**research object**:
 with three qualitative variables:
 
-    season: season (1:winter, 2:spring, 3:summer, 4:fall)
+    *season*: season (1:winter, 2:spring, 3:summer, 4:fall)
 
-    holiday: weather day is holiday or not
+    *holiday*: weather day is holiday or not
     
-    weathersit:
+    *weathersit*:
         1: Clear, Few clouds, Partly cloudy, Partly cloudy
         2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
         3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
@@ -26,15 +26,15 @@ with three qualitative variables:
 
 and quantitatve variables selecting from:
 
-    temp : Normalized temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-8, t_max=+39 (only in hourly scale)
+    *temp*: Normalized temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-8, t_max=+39 (only in hourly scale)
 
-    atemp: Normalized feeling temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-16, t_max=+50 (only in hourly scale)
+    *atemp*: Normalized feeling temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-16, t_max=+50 (only in hourly scale)
 
-    hum: Normalized humidity. The values are divided to 100 (max)
+    *hum*: Normalized humidity. The values are divided to 100 (max)
 
-    windspeed: Normalized wind speed. The values are divided to 67 (max)
+    *windspeed*: Normalized wind speed. The values are divided to 67 (max)
 
-    cnt (more in a dependent variable sense for mldm): count of total rental bikes including both casual and registered
+    *cnt* (more in a dependent variable sense for mldm): count of total rental bikes including both casual and registered
 
 by providing a basic explanation of how to do it easily.
 
