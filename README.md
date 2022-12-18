@@ -86,13 +86,16 @@ This app has structure as in the following:
 ```
 
 
+For more pages eg. more visualization, add in `-pages` folder and modify `-app.py` line 41. For updating data, check `-views-bike.xisx`. 
+For modifying dataframe, check `-views-data.py`. Overall the filename is very story-telling.
+
 ## Features
 -------
 
 - with a light and dark theme switch component from the dash-bootstrap-templates library
 - defalt_fig style
 - selecting columns/ rows of the table with some resonable restrictions (one quulitative and at most two quantitative, and can choose range of cnt)
-- good robostness
+- good robustness
 
 
 ## Contribute
