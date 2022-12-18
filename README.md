@@ -31,13 +31,13 @@ Look how easy it is to use:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Source Code: github.com/Lecter314/dash.poltly-in-python (a private one, please contact author before browsing)
 
 ## Support
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+If you are having using/developing related issues, please let us know.
+We have a mailing list located at: tyuy@edu.hse.ru
 
 ## License
 -------
