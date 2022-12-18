@@ -57,9 +57,9 @@ and quantitatve variables selecting from:
 
 ### our environment
 
-      \# Python 3.8.2
+      # Python 3.8.2
 
-      \# dash==2.7.1, dash-bootstrap-components==1.2.1, dash-bootstrap-templates==1.0.7, dash-core-components==2.0.0, dash-html-components==2.0.0, dash-table==5.0.0，plotly==5.11.0, numpy==1.18.2， pandas==1.0.3
+      # dash==2.7.1, dash-bootstrap-components==1.2.1, dash-bootstrap-templates==1.0.7, dash-core-components==2.0.0, dash-html-components==2.0.0, dash-table==5.0.0，plotly==5.11.0, numpy==1.18.2， pandas==1.0.3
 
 
 
