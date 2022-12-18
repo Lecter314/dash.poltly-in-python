@@ -12,7 +12,17 @@ More sepcificicaly, we focus on "The Demand of Rental Bikes During year 2012 in 
 
 with three qualitative variables:
 
-and four quantitatve variables:
+    season: season (1:winter, 2:spring, 3:summer, 4:fall)
+
+    holiday: weather day is holiday or not
+    
+    weathersit:
+        1: Clear, Few clouds, Partly cloudy, Partly cloudy
+        2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+        3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+        4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
+
+and quantitatve variables selecting from:
 
     temp : Normalized temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-8, t_max=+39 (only in hourly scale)
 
