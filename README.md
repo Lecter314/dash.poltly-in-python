@@ -14,15 +14,15 @@ with three qualitative variables:
 
 and four quantitatve variables:
 
-temp : Normalized temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-8, t_max=+39 (only in hourly scale)
+    temp : Normalized temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-8, t_max=+39 (only in hourly scale)
 
-atemp: Normalized feeling temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-16, t_max=+50 (only in hourly scale)
+    atemp: Normalized feeling temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-16, t_max=+50 (only in hourly scale)
 
-hum: Normalized humidity. The values are divided to 100 (max)
+    hum: Normalized humidity. The values are divided to 100 (max)
 
-windspeed: Normalized wind speed. The values are divided to 67 (max)
+    windspeed: Normalized wind speed. The values are divided to 67 (max)
 
-cnt: count of total rental bikes including both casual and registered
+    cnt: count of total rental bikes including both casual and registered
 
 by providing a basic explanation of how to do it easily.
 
