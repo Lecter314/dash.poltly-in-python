@@ -6,10 +6,12 @@ backup for python class project, master1grade
 -------
 
 
-This is the project conducted by group10, based on dash.plotly, using real-world dataset to create a local interactive Web interface.
-More sepcificicaly, we focus on "The Demand of Rental Bikes During year 2012 in Capital Bikeshare System".
+This is the project conducted by group10, based on dash.plotly, using real-world dataset to create a local interactive Web interface, in a total of 366 observations.
+More sepcificicaly, we focus on the analyse of "The Demand of Rental Bikes During year 2012 in Capital Bikeshare System" by visualizing 
+as a plimitory research.
 
 
+research object:
 with three qualitative variables:
 
     season: season (1:winter, 2:spring, 3:summer, 4:fall)
@@ -32,7 +34,7 @@ and quantitatve variables selecting from:
 
     windspeed: Normalized wind speed. The values are divided to 67 (max)
 
-    cnt: count of total rental bikes including both casual and registered
+    cnt (more in a dependent variable sense for mldm): count of total rental bikes including both casual and registered
 
 by providing a basic explanation of how to do it easily.
 
