@@ -1,5 +1,5 @@
 # dash.poltly-in-python
-backup for python class project, master1grade
+# this file is write in markdown
 
 
 # data analsis in Python course final project, Developer Guide
@@ -7,8 +7,8 @@ backup for python class project, master1grade
 
 
 This is the project conducted by group10, based on dash.plotly, using real-world dataset to create a local interactive Web interface, at a total of 366 observations.
-More sepcificicaly, we focus on the analyse of "The Demand of Rental Bikes During year 2012 in Capital Bikeshare System" by visualizing 
-as a plimitory research.
+More specifically, we focus on the analyze of "The Demand of Rental Bikes During year 2012 in Capital Bikeshare System" by visualizing 
+as a preliminary research.
 
 
 **research object**:
@@ -24,7 +24,7 @@ with three qualitative variables:
         3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
         4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
 
-and quantitatve variables selecting from:
+and quantitative variables selecting from:
 
     *temp*: Normalized temperature in Celsius. The values are derived via (t-t_min)/(t_max-t_min), t_min=-8, t_max=+39 (only in hourly scale)
 
@@ -94,7 +94,7 @@ For modifying dataframe, check `-views-data.py`. Overall the filename is very st
 
 - with a light and dark theme switch component from the dash-bootstrap-templates library
 - defalt_fig style
-- selecting columns/ rows of the table with some resonable restrictions (one quulitative and at most two quantitative, and can choose range of cnt)
+- selecting columns/ rows of the table with some reasonable restrictions (one qualitative and at most two quantitative, and can choose range of cnt)
 - good robustness
 
 
