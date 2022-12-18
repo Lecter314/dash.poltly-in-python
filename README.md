@@ -1,9 +1,11 @@
 # dash.poltly-in-python
 backup for python class project, master1grade
-$project
+
+
+## project
 ========
 
-$project will solve your problem of where to start with documentation,
+project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
 
 Look how easy it is to use:
