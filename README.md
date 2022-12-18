@@ -11,7 +11,7 @@ More sepcificicaly, we focus on the analyse of "The Demand of Rental Bikes Durin
 as a plimitory research.
 
 
-research object:
+*research object*:
 with three qualitative variables:
 
     season: season (1:winter, 2:spring, 3:summer, 4:fall)
