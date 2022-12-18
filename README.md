@@ -1,5 +1,5 @@
 # dash.poltly-in-python
-# this file is write in markdown
+*this file is written in markdown*
 
 
 # data analsis in Python course final project, Developer Guide
